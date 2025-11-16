@@ -26,4 +26,10 @@ Use this repo as a base for learning small JavaScript interactions
 and exploring front-end automation tests later on.
 
 ## 🌐 Live page
-[View demo](https://lahavmauda.github.io/html/)
+[View demo](https://lahavmauda.github.io/html/)  
+
+---
+**License:** [MIT License](./LICENSE) © 2025 Lahav Mauda  
+**Author:** Lahav Mauda | [GitHub Profile](https://github.com/lahavmauda)  
+**Note:** This project is a sandbox for experimenting with HTML structure, forms, and layout testing to support better QA understanding.
+
