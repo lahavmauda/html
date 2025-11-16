@@ -1,4 +1,6 @@
 # HTML Practice Project
+![HTML](https://img.shields.io/badge/HTML-Practice-orange)
+![Learning](https://img.shields.io/badge/Learning-By_Doing-green)
 
 ## 🧠 Project overview
 This repository is a small sandbox for practicing basic HTML structure,  
